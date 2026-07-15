@@ -20,4 +20,4 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: registry.access.redhat.com/ubi9/nginx-122
+          image: registry.access.redhat.com/ubi9/nginx
